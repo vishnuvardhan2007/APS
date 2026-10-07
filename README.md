@@ -25,12 +25,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnuvardhan2007/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vishnuvardhan2007/APS/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnuvardhan2007/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vishnuvardhan2007/APS/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnuvardhan2007/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vishnuvardhan2007/APS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

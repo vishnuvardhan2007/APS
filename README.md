@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vishnuvardhan2007/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnuvardhan2007/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/vishnuvardhan2007/APS/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/vishnuvardhan2007/APS/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishnuvardhan2007/APS/tree/master/0199-binary-tree-right-side-view) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vishnuvardhan2007/APS/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

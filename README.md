@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnuvardhan2007/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnuvardhan2007/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/vishnuvardhan2007/APS/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/vishnuvardhan2007/APS/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/vishnuvardhan2007/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vishnuvardhan2007/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vishnuvardhan2007/APS/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/vishnuvardhan2007/APS/tree/master/0735-asteroid-collision) |

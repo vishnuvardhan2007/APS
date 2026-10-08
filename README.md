@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/vishnuvardhan2007/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnuvardhan2007/APS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/vishnuvardhan2007/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vishnuvardhan2007/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vishnuvardhan2007/APS/tree/master/0622-design-circular-queue) |
@@ -166,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/vishnuvardhan2007/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vishnuvardhan2007/APS/tree/master/0257-binary-tree-paths) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

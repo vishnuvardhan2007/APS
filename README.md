@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnuvardhan2007/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/vishnuvardhan2007/APS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vishnuvardhan2007/APS/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishnuvardhan2007/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vishnuvardhan2007/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vishnuvardhan2007/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vishnuvardhan2007/APS/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishnuvardhan2007/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vishnuvardhan2007/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishnuvardhan2007/APS/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/vishnuvardhan2007/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |

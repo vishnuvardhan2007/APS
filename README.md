@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishnuvardhan2007/APS/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishnuvardhan2007/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishnuvardhan2007/APS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vishnuvardhan2007/APS/tree/master/0257-binary-tree-paths) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Breadth-First Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishnuvardhan2007/APS/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishnuvardhan2007/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishnuvardhan2007/APS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vishnuvardhan2007/APS/tree/master/0257-binary-tree-paths) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnuvardhan2007/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vishnuvardhan2007/APS/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishnuvardhan2007/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishnuvardhan2007/APS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vishnuvardhan2007/APS/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vishnuvardhan2007/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vishnuvardhan2007/APS/tree/master/0695-max-area-of-island) |
@@ -269,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vishnuvardhan2007/APS/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishnuvardhan2007/APS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishnuvardhan2007/APS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vishnuvardhan2007/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vishnuvardhan2007/APS/tree/master/0622-design-circular-queue) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vishnuvardhan2007/APS/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0695-max-area-of-island](https://github.com/vishnuvardhan2007/APS/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vishnuvardhan2007/APS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vishnuvardhan2007/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vishnuvardhan2007/APS/tree/master/0739-daily-temperatures) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vishnuvardhan2007/APS/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vishnuvardhan2007/APS/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/vishnuvardhan2007/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vishnuvardhan2007/APS/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vishnuvardhan2007/APS/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/vishnuvardhan2007/APS/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vishnuvardhan2007/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vishnuvardhan2007/APS/tree/master/0695-max-area-of-island) |
 ## Recursion
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishnuvardhan2007/APS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vishnuvardhan2007/APS/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/vishnuvardhan2007/APS/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/vishnuvardhan2007/APS/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
